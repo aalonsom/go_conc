@@ -1,0 +1,32 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;go_conc&gt;">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../go_socket/src/client" />
+      <root url="file://$PROJECT_DIR$/../go_socket/src/testCountWait" />
+      <root url="file://$PROJECT_DIR$/../go_socket/src/serverConcPoolDyn" />
+      <root url="file://$PROJECT_DIR$/../go_socket/src/serverConcPool" />
+      <root url="file://$PROJECT_DIR$/../go_socket/src/serverConcurrency" />
+      <root url="file://$PROJECT_DIR$/../go_socket/src/server" />
+      <root url="file://$PROJECT_DIR$/../go_socket/src/user" />
+      <root url="file://$PROJECT_DIR$/../go_socket/src/count_use" />
+      <root url="file://$PROJECT_DIR$/../go_socket/src/testCount" />
+      <root url="file://$PROJECT_DIR$/../go_socket/src/counter" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../go_socket/src/client" />
+      <root url="file://$PROJECT_DIR$/../go_socket/src/testCountWait" />
+      <root url="file://$PROJECT_DIR$/../go_socket/src/serverConcPoolDyn" />
+      <root url="file://$PROJECT_DIR$/../go_socket/src/serverConcPool" />
+      <root url="file://$PROJECT_DIR$/../go_socket/src/serverConcurrency" />
+      <root url="file://$PROJECT_DIR$/../go_socket/src/server" />
+      <root url="file://$PROJECT_DIR$/../go_socket/src/user" />
+      <root url="file://$PROJECT_DIR$/../go_socket/src/count_use" />
+      <root url="file://$PROJECT_DIR$/../go_socket/src/testCount" />
+      <root url="file://$PROJECT_DIR$/../go_socket/src/counter" />
+    </SOURCES>
+    <excluded>
+      <root url="file://$PROJECT_DIR$" />
+    </excluded>
+  </library>
+</component>
